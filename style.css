@@ -11,7 +11,7 @@ h1{
 span{
     color: orange;
 }
-section{
+.section-flex{
     display: flex;
 }
 .half{
