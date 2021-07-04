@@ -33,3 +33,20 @@ section{
     color: #fff;
     
 }
+.top-bottom{
+    background-image: url(./images/top-banner.png);
+    background-repeat: no-repeat;
+} 
+/* .secound-section{
+    text-decoration: none;
+    color: #ddd;
+    background-image: linear-gradient(orange,tomato);
+    padding: 6px 18px;
+     */
+
+.two-section{
+    background-image: url(./images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
