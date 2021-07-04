@@ -1,8 +1,5 @@
 body{
     font-family: 'Poppins', sans-serif;
-}
-*{
-    padding: 0%;
     margin: 0%;
 }
 h1{
@@ -52,7 +49,7 @@ h2{
     width: 40%;
     margin-left: 68px;
     margin-right: 5px;
-    padding: 46px;
+    padding: 20px;
    
 }
 .last-step{
