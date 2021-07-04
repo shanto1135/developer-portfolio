@@ -8,7 +8,10 @@ body{
 h1{
     font-size: 50px;
 }
-span{
+h2{
+    font-size: 40px;
+}
+.mohiuddin-color{
     color: orange;
 }
 .section-flex{
@@ -37,16 +40,37 @@ span{
     background-image: url(./images/top-banner.png);
     background-repeat: no-repeat;
 } 
-/* .secound-section{
-    text-decoration: none;
-    color: #ddd;
-    background-image: linear-gradient(orange,tomato);
-    padding: 6px 18px;
-     */
-
 .two-section{
     background-image: url(./images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
     
+}
+.div-shadow{
+    box-shadow: 10px 5px 40px gray;
+    margin-bottom: 66px;
+    width: 40%;
+    margin-left: 68px;
+    margin-right: 5px;
+    padding: 46px;
+   
+}
+.last-step{
+    background-image: url(./images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#border-id{
+    border-left: 7px solid;
+   border-image: linear-gradient(tomato,orange);
+   border-image-slice: 1;
+}
+#border-id2{
+    border-left: 7px solid;
+   border-image: linear-gradient(blue,cyan);
+   border-image-slice: 1;
+   
+}
+footer{
+    text-align: center;
 }
